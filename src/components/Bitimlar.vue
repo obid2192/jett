@@ -188,10 +188,9 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 80px;
   width: 100%;
   border-radius: 15px;
-  padding: 15px;
+  padding: 5px 10px;
   border: 1px solid rgb(214, 212, 212);
   margin: 10px 0;
   /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
