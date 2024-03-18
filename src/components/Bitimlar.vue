@@ -51,11 +51,11 @@
           </div>
           <div class="text-box">
             <span class="bank-name">{{ item.stock.issue_name }}</span
-            ><span class="total">-{{ item.overall }} UZS</span>
+            ><span class="total">-{{ item.overall }} uzs</span>
           </div>
           <div class="text-box">
             <span class="aksiya">Aksiyalar: +{{ item.qty }}</span
-            ><span class="aksiya-price">{{ item.price }} UZS</span>
+            ><span class="aksiya-price">{{ item.price }} uzs</span>
           </div>
         </div>
       </div>
